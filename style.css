@@ -1,0 +1,131 @@
+body {overflow: auto;}
+.up {height: 196px;
+width: 1920px;}
+.navbar {
+    background-color: rgba(103, 119, 255, 1);
+    color: rgba(255, 255, 255, 1);
+display: flex;
+    align-items:center
+}
+
+.nav-list {
+    list-style-type: none;
+   
+    
+}
+
+.nav-list .list-item 
+{ display: inline-block;
+    padding-top:97px;
+    padding-bottom:77px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;}
+
+.navbar a {
+    color:rgba(255, 255, 255, 1);
+    text-decoration: none;
+}
+.navbar a:hover {
+    color:rgba(85, 87, 102, 0.4)
+}
+
+.icon {
+    padding-top: 64px;
+    padding-left: 240px;
+    padding-bottom: 49.38px;
+}
+
+.adress {padding-top:39px;
+    padding-left: 80px;
+    padding-bottom: 111px;
+    color: rgba(255, 255, 255, 1); }
+
+    main {position:fixed;
+        width: 1093px;
+        height: 1024px;
+        left: 864px;
+        top: 115px;
+        background: url("assets/Слой 1.png") }
+        #you {position: fixed;
+    width: 293px;
+    height: 154px;
+    left: 240px;
+    top: 262px;
+    }
+        #try {position: fixed;
+            width: 293px;
+            height: 36px;
+            left: 240px;
+            top: 439px;
+            }
+    #do{position:fixed;
+        width: 511px;
+        height: 64px;
+        left: 240px;
+        top: 499px;}
+    #boing{position: fixed;
+        width: 511px;
+        height: 70px;
+        left: 240px;
+        top: 587px;}
+        
+        .rectangle {position:fixed;
+            top: 720px;
+            left: 240px;
+            width: 710px;
+            height: 419px;
+border-radius: 30px;
+background-color: #E5E5E5
+ }
+ .rectangle .gift {font-family: 'Acrom';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 47px;
+    text-transform: uppercase;
+color:white}
+ #text {background: url("assets/Vector.png");
+width: 950.35px; height: 224.1px;}
+    #text { position: fixed;
+    width: 1440px;
+    height: 172px;
+    left: 238px;
+    top: 1371px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 69px;
+    line-height: 86px;
+    text-align: center;
+    text-transform: uppercase;}
+    
+    .avia {position: fixed;
+        width: 1272px;
+        height: 949px;
+        left: 266px;
+        top: 1838px;
+        font-family: 'Acrom';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-transform: uppercase;
+color: #03008D;}
+
+.contacts {
+    position: absolute;
+width: 1440px;
+height: 77px;
+left: 237px;
+top: 8867px;
+font-family: 'Acrom';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-transform: uppercase;
+color: #03008D;
+}
